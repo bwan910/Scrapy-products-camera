@@ -1,6 +1,6 @@
 # Scrapy-products-camera
 
-Website url for this project: https://www.jessops.com/cameras
+Website url for this project: https://www.jessops.com/cameras?fh_start_index=0&fh_view_size=21
 
 # To crawl(run) the spider
 Command: scrapy crawl cameraspider
